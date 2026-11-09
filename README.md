@@ -1,56 +1,67 @@
 
-<!-- ================= HERO IMAGE ================= -->
+<!-- ================================================== -->
+<!--                 HERO SECTION                       -->
+<!-- ================================================== -->
 
 <div align="center">
 
 <img src="./workspace.png"
      width="100%"
-     alt="Hardik Petkar - Developer Workspace"/>
+     alt="Hardik Petkar - Futuristic Developer Workspace"/>
 
 <br/>
 
 # HARDIK PETKAR
 
-### DATA ANALYST · AI ENTHUSIAST · DATA SCIENCE
+### DATA ANALYST | AI ENTHUSIAST | DATA SCIENCE
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Insights.;Building+AI-Powered+Solutions.;Exploring+Artificial+Intelligence.;Transforming+Ideas+Into+Applications." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Insights.;Building+AI-Powered+Solutions.;Exploring+Machine+Learning.;Creating+Intelligent+Applications." alt="Animated introduction"/>
 
 <a href="https://github.com/HardikPetkarDS">
-<img src="https://img.shields.io/badge/GitHub-HardikPetkarDS-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/hardik-petkar-8130bb370/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:hardikpetkar826@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-📍 Mumbai, India
+<a href="https://www.linkedin.com/in/hardik-petkar-8130bb370/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hardikpetkar826@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+📍 Mumbai, India | B.Sc. Data Science
 
 </div>
 
 ---
 
-<!-- ================= TECHNOLOGY STACK ================= -->
+<!-- ================================================== -->
+<!--                 TECH ARSENAL                       -->
+<!-- ================================================== -->
 
 <div align="center">
 
-## ⚡ TECH ARSENAL
+# ⚡ TECH ARSENAL
 
-*Technologies and tools I work with*
+*Tools, technologies and frameworks I've explored and worked with.*
 
 </div>
 
-### 💻 Programming & Databases
+### 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,r,java,js,html,css,mysql,sqlite,postgres&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,r,java,js,html,css&theme=dark"/>
+</p>
+
+### 🗄️ Databases & Query Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,redis&theme=dark"/>
 </p>
 
 ### 📊 Data Analytics & Visualization
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -63,7 +74,7 @@
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-### 🤖 Machine Learning & AI
+### 🤖 Machine Learning & Artificial Intelligence
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark"/>
@@ -88,7 +99,7 @@
 ### ⚙️ Development & Automation
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,fastapi,flask,react,nextjs,tailwind,redis,vscode,jupyter&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,fastapi,flask,react,nextjs,tailwind,vscode,jupyter&theme=dark"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ReportLab-334155?style=for-the-badge"/>
@@ -97,288 +108,382 @@
 
 ---
 
-<!-- ================= INTERACTIVE PROJECT CATEGORIES ================= -->
+<!-- ================================================== -->
+<!--              PROJECT COMMAND CENTER                -->
+<!-- ================================================== -->
 
 <div align="center">
 
-## 🧠 AREAS OF INTEREST
+# 🚀 PROJECT COMMAND CENTER
 
-*Choose a domain below to explore its projects.*
+### SELECT YOUR DOMAIN. EXPLORE MY WORK.
+
+<sub>Click any category below to discover projects, technologies and implementations.</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/07_DOMAINS-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROJECTS-0B1F33?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUILT_WITH_PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
+<br/>
+
+<!-- ============== 01 DATA ANALYTICS ============== -->
+
 <details>
-<summary>📊 <b>DATA ANALYTICS</b> — Data exploration, dashboards and insights</summary>
+<summary>📊 <b>01 | DATA ANALYTICS</b> — Dashboards, Data Exploration & Insights</summary>
 
 <br/>
 
-### 1. E-Commerce Sales Dashboard
+<div align="center">
 
-**Tech Stack:** Power BI · SQL · Excel
+### DATA ANALYTICS LAB
 
-- Interactive sales analytics dashboard.
+<sub>Turning raw datasets into meaningful business insights.</sub>
+
+</div>
+
+### 01. E-Commerce Sales Dashboard
+
+<img src="https://img.shields.io/badge/POWER_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXCEL-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+
+An interactive business intelligence dashboard for understanding e-commerce sales performance.
+
+**Key Features**
+- Sales and revenue analysis.
 - Customer and transaction analysis.
-- Business KPI tracking and Pareto analysis.
+- KPI tracking and Pareto analysis.
 - Dataset involving 986 customers and 1K+ transactions.
 
-🔗 [View GitHub Repository](https://github.com/HardikPetkarDS/Ecommerce-Sales-Dashboard)
+[🔗 VIEW PROJECT ON GITHUB](https://github.com/HardikPetkarDS/Ecommerce-Sales-Dashboard)
 
-### 2. InsightForge AI
+---
 
-**Tech Stack:** Python · Streamlit · Pandas · Plotly · SQLite
+### 02. InsightForge AI
 
-- AI-powered data analytics platform.
-- Dataset upload, exploration and cleaning.
-- Automated visualizations and KPI cards.
-- AI-powered analytical insights and report generation.
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 
-🔗 [View GitHub Repository](https://github.com/HardikPetkarDS/InsightForge-AI)
+An AI-powered analytics platform designed to simplify dataset exploration and reporting.
 
-### 3. AI Dashboard Generator
+**Key Features**
+- Dataset upload and preview.
+- Automated data cleaning.
+- Interactive dashboards and KPI cards.
+- AI-generated analytical insights.
+- Report generation.
 
-**Tech Stack:** Python · Streamlit · Plotly · Pandas
+[🔗 VIEW PROJECT ON GITHUB](https://github.com/HardikPetkarDS/InsightForge-AI)
 
-- Converts raw datasets into interactive dashboards.
+---
+
+### 03. AI Dashboard Generator
+
+**Python · Streamlit · Pandas · Plotly**
+
+- Converts uploaded datasets into interactive dashboards.
 - Automates data visualization.
 - Generates analytical summaries.
 
-### 4. Social Media Big Data Analyzer
+---
 
-**Tech Stack:** Python · Streamlit · Pandas · NLP
+### 04. Social Media Analyzer
 
-- Social media dataset analysis.
-- Text analytics and word cloud visualization.
-- Exploration of social media data patterns.
+**Python · Pandas · Streamlit · NLP**
 
-</details>
-
-<details>
-<summary>📈 <b>BUSINESS INTELLIGENCE</b> — Reporting, KPIs and decision support</summary>
-
-<br/>
-
-### 1. E-Commerce Sales Dashboard
-
-**Tech Stack:** Power BI · SQL · Excel
-
-- Sales performance monitoring.
-- Customer analysis and segmentation.
-- KPI-driven reporting.
-- Pareto analysis for business insights.
-
-🔗 [View Repository](https://github.com/HardikPetkarDS/Ecommerce-Sales-Dashboard)
-
-### 2. InsightForge AI
-
-**Tech Stack:** Python · Streamlit · Plotly
-
-- Automated data visualization.
-- Interactive analytical dashboards.
-- KPI generation and reporting.
-
-🔗 [View Repository](https://github.com/HardikPetkarDS/InsightForge-AI)
+- Social media dataset exploration.
+- Text analytics and visualization.
+- Word cloud and data pattern exploration.
 
 </details>
 
+<!-- ============== 02 BUSINESS INTELLIGENCE ============== -->
+
 <details>
-<summary>💹 <b>FINANCIAL ANALYTICS</b> — Financial technology and portfolio optimization</summary>
+<summary>📈 <b>02 | BUSINESS INTELLIGENCE</b> — Reporting, KPIs & Decision Support</summary>
 
 <br/>
 
-### 1. FINOPT-AI
+### 01. E-Commerce Business Intelligence
+
+**Power BI · SQL · Excel**
+
+- Interactive business performance dashboard.
+- Customer and sales analysis.
+- KPI monitoring.
+- Pareto-based business insights.
+
+[🔗 VIEW REPOSITORY](https://github.com/HardikPetkarDS/Ecommerce-Sales-Dashboard)
+
+---
+
+### 02. InsightForge AI
+
+**Python · Streamlit · Plotly**
+
+- Automated analytical reporting.
+- Interactive data exploration.
+- KPI generation.
+- Visual business insights.
+
+[🔗 VIEW REPOSITORY](https://github.com/HardikPetkarDS/InsightForge-AI)
+
+</details>
+
+<!-- ============== 03 FINANCIAL ANALYTICS ============== -->
+
+<details>
+<summary>💹 <b>03 | FINANCIAL ANALYTICS</b> — FinTech, Markets & Portfolio Optimization</summary>
+
+<br/>
+
+### 01. FINOPT-AI
 
 **AI Wealth Management & Portfolio Optimization System**
 
-**Tech Stack:** Python · Financial Analytics · Portfolio Optimization
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FINANCIAL_ANALYTICS-0F9D8A?style=flat-square"/>
 
 - Multi-asset market data analysis.
 - Portfolio optimization experiments.
-- Curated historical market dataset covering 2021–2025.
+- Historical market dataset covering 2021–2025.
+- Financial decision-support workflows.
 
-### 2. FIN-AI
+---
+
+### 02. FIN-AI
 
 **Financial AI Application**
 
-**Tech Stack:** FastAPI · React · PostgreSQL · Redis · Twelve Data
+<img src="https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REDIS-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 
 - Financial application architecture.
-- Market data integration.
-- Backend API and frontend integration.
+- Market data integration using Twelve Data.
+- API and database integration.
 - Financial data processing workflows.
 
-### 3. Stock Market Simulator
+---
 
-**Tech Stack:** Python · Streamlit · Pandas · Plotly
+### 03. Stock Market Simulator
+
+**Python · Streamlit · Pandas · Plotly**
 
 - Interactive financial dashboard.
 - Stock market data visualization.
-- Financial performance analysis.
+- Financial performance exploration.
 
 </details>
 
+<!-- ============== 04 MACHINE LEARNING ============== -->
+
 <details>
-<summary>🤖 <b>MACHINE LEARNING</b> — Predictive modelling and deep learning</summary>
+<summary>🤖 <b>04 | MACHINE LEARNING</b> — Predictive Modelling & Deep Learning</summary>
 
 <br/>
 
-### 1. CIFAR-100 Image Classification
+### 01. CIFAR-100 Image Classification
 
-**Tech Stack:** Python · TensorFlow · Keras
+<img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/KERAS-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
-- Image classification using CIFAR-100.
+- Multi-class image classification.
 - Deep learning model development.
-- Multi-class image recognition.
+- Image preprocessing and evaluation.
 
-### 2. Regression Experiments
+---
 
-**Tech Stack:** Python · Pandas · Scikit-learn
+### 02. Regression Experiments
 
-- Linear regression experiments.
+**Python · Pandas · Scikit-learn**
+
+- Linear regression.
 - Ridge and Lasso regularization.
 - Predictive modelling and evaluation.
 
-### 3. Diabetes & Titanic Analysis
+---
 
-**Tech Stack:** Python · Pandas · Scikit-learn
+### 03. Diabetes & Titanic Analysis
+
+**Python · Pandas · Scikit-learn**
 
 - Dataset preprocessing.
 - Exploratory data analysis.
-- Feature preparation and predictive modelling experiments.
+- Feature preparation.
+- Predictive modelling experiments.
 
-### 4. Machine Learning Experiments
+---
 
-**Topics:** K-Means · Naive Bayes · SVM · PCA · Decision Trees · Ensemble Learning
+### 04. Machine Learning Algorithm Experiments
 
-- Classification and clustering experiments.
-- Feature reduction and model evaluation.
-- Cross-validation and model comparison.
+**Algorithms & Concepts**
+
+- Naive Bayes.
+- K-Means Clustering.
+- Apriori Algorithm.
+- ID3 Decision Trees.
+- Support Vector Machines.
+- PCA and LDA.
+- Ensemble Learning.
+- Cross-Validation.
 
 </details>
 
+<!-- ============== 05 GENERATIVE AI ============== -->
+
 <details>
-<summary>✨ <b>GENERATIVE AI</b> — Intelligent applications and AI-powered solutions</summary>
+<summary>🧠 <b>05 | GENERATIVE AI</b> — LLMs, Chatbots & Intelligent Applications</summary>
 
 <br/>
 
-### 1. InsightForge AI
+### 01. InsightForge AI
 
-**Tech Stack:** Python · Streamlit · Gemini AI · Plotly · SQLite
+**Python · Gemini API · Streamlit · Plotly**
 
-- AI-powered analytical insights.
-- Natural-language assistance for data exploration.
+- AI-assisted analytical insights.
+- Intelligent dataset exploration.
 - Automated analytical reporting.
 
-🔗 [View Repository](https://github.com/HardikPetkarDS/InsightForge-AI)
+[🔗 VIEW PROJECT](https://github.com/HardikPetkarDS/InsightForge-AI)
 
-### 2. AI Mirror & AI Lens Mirror
+---
 
-**Tech Stack:** FastAPI · Next.js · MediaPipe · SQLite
+### 02. Generative AI Experiments
 
-- AI-assisted virtual try-on experiments.
-- Face landmark and pose detection.
-- Body measurement and sizing engine.
-- Computer vision-based applications.
-
-### 3. Generative AI Experiments
-
-**Tech Stack:** Python · Gemini API
+**Python · Gemini API**
 
 - AI-powered application prototypes.
-- Intelligent chatbot experiments.
+- Chatbot development experiments.
 - LLM-based workflows.
+
+---
+
+### 03. AI Mirror
+
+**FastAPI · Next.js · MediaPipe · SQLite**
+
+- AI-assisted virtual try-on experiments.
+- Body measurement and pose detection.
+- Intelligent sizing workflows.
 
 </details>
 
+<!-- ============== 06 AUTOMATION ============== -->
+
 <details>
-<summary>⚙️ <b>AUTOMATION & APPLICATION DEVELOPMENT</b> — Workflow automation and software applications</summary>
+<summary>⚙️ <b>06 | AUTOMATION & APPLICATION DEVELOPMENT</b> — Workflows, APIs & Systems</summary>
 
 <br/>
 
-### 1. CMS DMS Automation
+### 01. CMS DMS Automation
 
-**Tech Stack:** Python · Selenium · Excel · Dropbox
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SELENIUM-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
 
 - Excel-driven document workflows.
 - Automated browser interactions.
 - File management and portal upload automation.
+- Preview-mode workflow experimentation.
 
-### 2. TASK NEXUS
+---
+
+### 02. TASK NEXUS
 
 **Intelligent Employee Task Allocation & Workforce Management System**
 
-**Tech Stack:** Python · Flask
+**Python · Flask**
 
 - Employee task allocation.
 - Workforce management workflows.
 - Task organization and tracking.
 
-### 3. AI Mirror
+---
 
-**Tech Stack:** FastAPI · Next.js · SQLite
+### 03. AI Mirror / AI Lens Mirror
 
-- Backend and frontend integration.
-- Computer vision application workflows.
-- Measurement and sizing components.
+**FastAPI · Next.js · SQLite · MediaPipe**
+
+- Computer vision workflows.
+- Face landmark detection.
+- Virtual try-on application development.
+- Body measurement and sizing engine.
 
 </details>
 
+<!-- ============== 07 BIG DATA ============== -->
+
 <details>
-<summary>🗄️ <b>BIG DATA & DATA ENGINEERING</b> — Distributed processing and data technologies</summary>
+<summary>🗄️ <b>07 | BIG DATA & DATA ENGINEERING</b> — Distributed Processing & Data Systems</summary>
 
 <br/>
 
-### 1. Apache Pig Analytics
+### 01. Apache Pig Analytics
 
-**Tech Stack:** Apache Pig · Hadoop · HDFS
+**Apache Pig · Hadoop · HDFS**
 
-- Data transformation using Pig.
+- Data transformation using Pig scripts.
 - Big Data analytics workflows.
 - Hadoop ecosystem experimentation.
 
-### 2. Hadoop Ecosystem Experiments
+---
 
-**Technologies:** Hadoop · HDFS · HBase · Hive · Spark · PySpark · Kafka
+### 02. Hadoop Ecosystem Experiments
 
-- Distributed data processing.
-- Big Data storage and architecture.
-- Data transformation and processing experiments.
+<img src="https://img.shields.io/badge/HADOOP-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/SPARK-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/KAFKA-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+
+**Technologies**
+- Hadoop and HDFS.
+- HBase and Hive.
+- Apache Spark and PySpark.
+- Apache Kafka.
+- Apache Pig.
+
+**Areas Explored**
+- Distributed data storage.
+- Large-scale data processing.
+- Data transformation.
 - Streaming and data engineering concepts.
-
-### 3. Social Media Big Data Analyzer
-
-**Tech Stack:** Python · Pandas · Streamlit
-
-- Social media dataset exploration.
-- Large-scale data analysis concepts.
-- Text analytics and visualization.
 
 </details>
 
 ---
 
-<!-- ================= CONTACT ================= -->
+<!-- ================================================== -->
+<!--                   CONNECT                          -->
+<!-- ================================================== -->
 
 <div align="center">
 
-## 🤝 LET'S CONNECT
+# 🤝 LET'S CONNECT
 
 *Open to learning, collaboration and opportunities in Data Analytics and AI.*
 
 <a href="https://github.com/HardikPetkarDS">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-HardikPetkarDS-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hardik-petkar-8130bb370/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Hardik_Petkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:hardikpetkar826@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:007F9E,100:00D9FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:007F9E,100:00D9FF&height=100&section=footer" width="100%" alt="Footer"/>
 
 <sub>BUILD · ANALYZE · INNOVATE · REPEAT</sub>
 
