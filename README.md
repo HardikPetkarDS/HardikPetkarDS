@@ -1,7 +1,10 @@
 
-<!-- ================================================== -->
-<!--                 HERO SECTION                       -->
-<!-- ================================================== -->
+<!-- ===================================================== -->
+<!--                 HARDIK PETKAR                         -->
+<!--              GITHUB PROFILE README                    -->
+<!-- ===================================================== -->
+
+<!-- ================= HERO ================= -->
 
 <div align="center">
 
@@ -16,6 +19,8 @@
 ### DATA ANALYST | AI ENTHUSIAST | DATA SCIENCE
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Insights.;Building+AI-Powered+Solutions.;Exploring+Machine+Learning.;Creating+Intelligent+Applications." alt="Animated introduction"/>
+
+<br/>
 
 <a href="https://github.com/HardikPetkarDS">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -35,15 +40,13 @@
 
 ---
 
-<!-- ================================================== -->
-<!--                 TECH ARSENAL                       -->
-<!-- ================================================== -->
+<!-- ================= TECH ARSENAL ================= -->
 
 <div align="center">
 
 # ⚡ TECH ARSENAL
 
-*Tools, technologies and frameworks I've explored and worked with.*
+*Technologies, frameworks and tools I have explored and worked with.*
 
 </div>
 
@@ -79,8 +82,8 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-0F766E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
 </p>
@@ -108,147 +111,276 @@
 
 ---
 
-<!-- ================================================== -->
-<!--              PROJECT COMMAND CENTER                -->
-<!-- ================================================== -->
+<!-- ===================================================== -->
+<!--              PROJECT COMMAND CENTER                   -->
+<!-- ===================================================== -->
 
 <div align="center">
+
+<a id="project-command-center"></a>
 
 # 🚀 PROJECT COMMAND CENTER
 
-### SELECT YOUR DOMAIN. EXPLORE MY WORK.
+### SELECT A DOMAIN TO EXPLORE MY WORK
 
-<sub>Click any category below to discover projects, technologies and implementations.</sub>
+<sub>Choose a category below to discover projects, technologies and implementations.</sub>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/07_DOMAINS-00D9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PROJECTS-0B1F33?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BUILT_WITH_PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/07_DOMAINS-00CFE8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROJECT_COLLECTION-10283F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATA_×_AI-8B5CF6?style=for-the-badge"/>
 
 </div>
 
 <br/>
 
-<!-- ============== 01 DATA ANALYTICS ============== -->
+<!-- ================= CATEGORY GRID ================= -->
 
-<details>
-<summary>📊 <b>01 | DATA ANALYTICS</b> — Dashboards, Data Exploration & Insights</summary>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+<a href="#data-analytics">
+<h2>📊 DATA ANALYTICS</h2>
+</a>
+
+**Dashboards & Insights**
+
+<sub>Data exploration · Visualization · Reporting</sub>
+
+<p align="right">
+<a href="#data-analytics">EXPLORE DOMAIN ↗</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="#business-intelligence">
+<h2>📈 BUSINESS INTELLIGENCE</h2>
+</a>
+
+**KPIs & Reporting**
+
+<sub>Business insights · Performance · Decisions</sub>
+
+<p align="right">
+<a href="#business-intelligence">EXPLORE DOMAIN ↗</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<a href="#financial-analytics">
+<h2>💹 FINANCIAL ANALYTICS</h2>
+</a>
+
+**Markets & Portfolios**
+
+<sub>FinTech · Market data · Optimization</sub>
+
+<p align="right">
+<a href="#financial-analytics">EXPLORE DOMAIN ↗</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="#machine-learning">
+<h2>🤖 MACHINE LEARNING</h2>
+</a>
+
+**Predictive Models**
+
+<sub>Classification · Regression · Deep Learning</sub>
+
+<p align="right">
+<a href="#machine-learning">EXPLORE DOMAIN ↗</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<a href="#generative-ai">
+<h2>🧠 GENERATIVE AI</h2>
+</a>
+
+**Intelligent Applications**
+
+<sub>LLMs · Gemini · AI Applications</sub>
+
+<p align="right">
+<a href="#generative-ai">EXPLORE DOMAIN ↗</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="#automation">
+<h2>⚙️ AUTOMATION</h2>
+</a>
+
+**Workflows & Systems**
+
+<sub>Selenium · APIs · Application Development</sub>
+
+<p align="right">
+<a href="#automation">EXPLORE DOMAIN ↗</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+<a href="#big-data">
+<h2>🗄️ BIG DATA & DATA ENGINEERING</h2>
+</a>
+
+**Distributed Processing & Data Systems**
+
+<sub>Hadoop · Spark · Kafka · PySpark</sub>
+
+<p align="right">
+<a href="#big-data">EXPLORE DOMAIN ↗</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================================================== -->
+<!--                 PROJECT COLLECTION                    -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-### DATA ANALYTICS LAB
+# 💻 PROJECT COLLECTION
 
-<sub>Turning raw datasets into meaningful business insights.</sub>
+*Explore the implementations behind each domain.*
 
 </div>
 
-### 01. E-Commerce Sales Dashboard
+<!-- ================= 01 DATA ANALYTICS ================= -->
 
-<img src="https://img.shields.io/badge/POWER_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<a id="data-analytics"></a>
+
+## 📊 01 — DATA ANALYTICS
+
+<sub>Transforming raw data into meaningful insights.</sub>
+
+### 🛒 E-Commerce Sales Dashboard
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/EXCEL-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 
-An interactive business intelligence dashboard for understanding e-commerce sales performance.
-
-**Key Features**
-- Sales and revenue analysis.
+- Interactive sales analytics dashboard.
 - Customer and transaction analysis.
 - KPI tracking and Pareto analysis.
 - Dataset involving 986 customers and 1K+ transactions.
 
-[🔗 VIEW PROJECT ON GITHUB](https://github.com/HardikPetkarDS/Ecommerce-Sales-Dashboard)
+[🔗 VIEW GITHUB REPOSITORY](https://github.com/HardikPetkarDS/Ecommerce-Sales-Dashboard)
 
 ---
 
-### 02. InsightForge AI
+### 🔍 InsightForge AI
 
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
 
-An AI-powered analytics platform designed to simplify dataset exploration and reporting.
+- AI-powered data analytics platform.
+- Dataset upload, preview and cleaning.
+- Automated visualizations and KPI cards.
+- AI-powered analytical insights and report generation.
 
-**Key Features**
-- Dataset upload and preview.
-- Automated data cleaning.
-- Interactive dashboards and KPI cards.
-- AI-generated analytical insights.
-- Report generation.
-
-[🔗 VIEW PROJECT ON GITHUB](https://github.com/HardikPetkarDS/InsightForge-AI)
+[🔗 VIEW GITHUB REPOSITORY](https://github.com/HardikPetkarDS/InsightForge-AI)
 
 ---
 
-### 03. AI Dashboard Generator
+### 📈 AI Dashboard Generator
 
 **Python · Streamlit · Pandas · Plotly**
 
-- Converts uploaded datasets into interactive dashboards.
+- Converts raw datasets into interactive dashboards.
 - Automates data visualization.
 - Generates analytical summaries.
 
 ---
 
-### 04. Social Media Analyzer
+### 📱 Social Media Analyzer
 
-**Python · Pandas · Streamlit · NLP**
+**Python · Pandas · Streamlit**
 
 - Social media dataset exploration.
-- Text analytics and visualization.
-- Word cloud and data pattern exploration.
+- Text analytics and visualizations.
+- Data pattern exploration.
 
-</details>
+[⬆ BACK TO COMMAND CENTER](#project-command-center)
 
-<!-- ============== 02 BUSINESS INTELLIGENCE ============== -->
+---
 
-<details>
-<summary>📈 <b>02 | BUSINESS INTELLIGENCE</b> — Reporting, KPIs & Decision Support</summary>
+<!-- ================= 02 BUSINESS INTELLIGENCE ================= -->
 
-<br/>
+<a id="business-intelligence"></a>
 
-### 01. E-Commerce Business Intelligence
+## 📈 02 — BUSINESS INTELLIGENCE
+
+<sub>Turning business data into actionable decisions.</sub>
+
+### E-Commerce Business Dashboard
 
 **Power BI · SQL · Excel**
 
-- Interactive business performance dashboard.
-- Customer and sales analysis.
-- KPI monitoring.
-- Pareto-based business insights.
+- Sales performance monitoring.
+- Customer and transaction analysis.
+- Interactive KPI reporting.
+- Pareto analysis.
 
 [🔗 VIEW REPOSITORY](https://github.com/HardikPetkarDS/Ecommerce-Sales-Dashboard)
 
 ---
 
-### 02. InsightForge AI
+### InsightForge AI
 
-**Python · Streamlit · Plotly**
+**Python · Streamlit · Plotly · Pandas**
 
 - Automated analytical reporting.
 - Interactive data exploration.
-- KPI generation.
-- Visual business insights.
+- KPI generation and visualization.
 
 [🔗 VIEW REPOSITORY](https://github.com/HardikPetkarDS/InsightForge-AI)
 
-</details>
+[⬆ BACK TO COMMAND CENTER](#project-command-center)
 
-<!-- ============== 03 FINANCIAL ANALYTICS ============== -->
+---
 
-<details>
-<summary>💹 <b>03 | FINANCIAL ANALYTICS</b> — FinTech, Markets & Portfolio Optimization</summary>
+<!-- ================= 03 FINANCIAL ANALYTICS ================= -->
 
-<br/>
+<a id="financial-analytics"></a>
 
-### 01. FINOPT-AI
+## 💹 03 — FINANCIAL ANALYTICS
+
+<sub>Exploring financial technology, market data and portfolio optimization.</sub>
+
+### FINOPT-AI
 
 **AI Wealth Management & Portfolio Optimization System**
 
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FINANCIAL_ANALYTICS-0F9D8A?style=flat-square"/>
+**Python · Financial Analytics · Optimization**
 
 - Multi-asset market data analysis.
 - Portfolio optimization experiments.
@@ -257,14 +389,14 @@ An AI-powered analytics platform designed to simplify dataset exploration and re
 
 ---
 
-### 02. FIN-AI
+### FIN-AI
 
 **Financial AI Application**
 
-<img src="https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REDIS-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 
 - Financial application architecture.
 - Market data integration using Twelve Data.
@@ -273,7 +405,7 @@ An AI-powered analytics platform designed to simplify dataset exploration and re
 
 ---
 
-### 03. Stock Market Simulator
+### Stock Market Simulator
 
 **Python · Streamlit · Pandas · Plotly**
 
@@ -281,28 +413,31 @@ An AI-powered analytics platform designed to simplify dataset exploration and re
 - Stock market data visualization.
 - Financial performance exploration.
 
-</details>
-
-<!-- ============== 04 MACHINE LEARNING ============== -->
-
-<details>
-<summary>🤖 <b>04 | MACHINE LEARNING</b> — Predictive Modelling & Deep Learning</summary>
-
-<br/>
-
-### 01. CIFAR-100 Image Classification
-
-<img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/KERAS-D00000?style=flat-square&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
-
-- Multi-class image classification.
-- Deep learning model development.
-- Image preprocessing and evaluation.
+[⬆ BACK TO COMMAND CENTER](#project-command-center)
 
 ---
 
-### 02. Regression Experiments
+<!-- ================= 04 MACHINE LEARNING ================= -->
+
+<a id="machine-learning"></a>
+
+## 🤖 04 — MACHINE LEARNING
+
+<sub>Predictive modelling, statistical learning and deep learning.</sub>
+
+### CIFAR-100 Image Classification
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+- Multi-class image classification.
+- Deep learning model development.
+- Image recognition experiments.
+
+---
+
+### Regression Experiments
 
 **Python · Pandas · Scikit-learn**
 
@@ -312,40 +447,38 @@ An AI-powered analytics platform designed to simplify dataset exploration and re
 
 ---
 
-### 03. Diabetes & Titanic Analysis
+### Diabetes & Titanic Analysis
 
 **Python · Pandas · Scikit-learn**
 
 - Dataset preprocessing.
 - Exploratory data analysis.
-- Feature preparation.
-- Predictive modelling experiments.
+- Feature preparation and modelling experiments.
 
 ---
 
-### 04. Machine Learning Algorithm Experiments
+### Machine Learning Algorithm Experiments
 
-**Algorithms & Concepts**
+**Naive Bayes · K-Means · Apriori · ID3 · SVM · PCA · LDA · Ensemble Learning**
 
-- Naive Bayes.
-- K-Means Clustering.
-- Apriori Algorithm.
-- ID3 Decision Trees.
-- Support Vector Machines.
-- PCA and LDA.
-- Ensemble Learning.
-- Cross-Validation.
+- Classification and clustering.
+- Association rule mining.
+- Feature reduction.
+- Model evaluation and cross-validation.
 
-</details>
+[⬆ BACK TO COMMAND CENTER](#project-command-center)
 
-<!-- ============== 05 GENERATIVE AI ============== -->
+---
 
-<details>
-<summary>🧠 <b>05 | GENERATIVE AI</b> — LLMs, Chatbots & Intelligent Applications</summary>
+<!-- ================= 05 GENERATIVE AI ================= -->
 
-<br/>
+<a id="generative-ai"></a>
 
-### 01. InsightForge AI
+## 🧠 05 — GENERATIVE AI
+
+<sub>Exploring intelligent applications and AI-powered workflows.</sub>
+
+### InsightForge AI
 
 **Python · Gemini API · Streamlit · Plotly**
 
@@ -353,21 +486,21 @@ An AI-powered analytics platform designed to simplify dataset exploration and re
 - Intelligent dataset exploration.
 - Automated analytical reporting.
 
-[🔗 VIEW PROJECT](https://github.com/HardikPetkarDS/InsightForge-AI)
+[🔗 VIEW REPOSITORY](https://github.com/HardikPetkarDS/InsightForge-AI)
 
 ---
 
-### 02. Generative AI Experiments
+### Generative AI Experiments
 
 **Python · Gemini API**
 
 - AI-powered application prototypes.
-- Chatbot development experiments.
+- Chatbot experiments.
 - LLM-based workflows.
 
 ---
 
-### 03. AI Mirror
+### AI Mirror
 
 **FastAPI · Next.js · MediaPipe · SQLite**
 
@@ -375,28 +508,31 @@ An AI-powered analytics platform designed to simplify dataset exploration and re
 - Body measurement and pose detection.
 - Intelligent sizing workflows.
 
-</details>
-
-<!-- ============== 06 AUTOMATION ============== -->
-
-<details>
-<summary>⚙️ <b>06 | AUTOMATION & APPLICATION DEVELOPMENT</b> — Workflows, APIs & Systems</summary>
-
-<br/>
-
-### 01. CMS DMS Automation
-
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SELENIUM-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-
-- Excel-driven document workflows.
-- Automated browser interactions.
-- File management and portal upload automation.
-- Preview-mode workflow experimentation.
+[⬆ BACK TO COMMAND CENTER](#project-command-center)
 
 ---
 
-### 02. TASK NEXUS
+<!-- ================= 06 AUTOMATION ================= -->
+
+<a id="automation"></a>
+
+## ⚙️ 06 — AUTOMATION & APPLICATION DEVELOPMENT
+
+<sub>Building applications, automating workflows and connecting systems.</sub>
+
+### CMS DMS Automation
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+
+- Excel-driven document workflows.
+- Automated browser interactions.
+- Dropbox file management.
+- Portal upload automation.
+
+---
+
+### TASK NEXUS
 
 **Intelligent Employee Task Allocation & Workforce Management System**
 
@@ -408,25 +544,27 @@ An AI-powered analytics platform designed to simplify dataset exploration and re
 
 ---
 
-### 03. AI Mirror / AI Lens Mirror
+### AI Mirror / AI Lens Mirror
 
-**FastAPI · Next.js · SQLite · MediaPipe**
+**FastAPI · Next.js · MediaPipe · SQLite**
 
-- Computer vision workflows.
 - Face landmark detection.
-- Virtual try-on application development.
+- Virtual try-on workflows.
 - Body measurement and sizing engine.
 
-</details>
+[⬆ BACK TO COMMAND CENTER](#project-command-center)
 
-<!-- ============== 07 BIG DATA ============== -->
+---
 
-<details>
-<summary>🗄️ <b>07 | BIG DATA & DATA ENGINEERING</b> — Distributed Processing & Data Systems</summary>
+<!-- ================= 07 BIG DATA ================= -->
 
-<br/>
+<a id="big-data"></a>
 
-### 01. Apache Pig Analytics
+## 🗄️ 07 — BIG DATA & DATA ENGINEERING
+
+<sub>Distributed processing, storage and data engineering concepts.</sub>
+
+### Apache Pig Analytics
 
 **Apache Pig · Hadoop · HDFS**
 
@@ -436,13 +574,14 @@ An AI-powered analytics platform designed to simplify dataset exploration and re
 
 ---
 
-### 02. Hadoop Ecosystem Experiments
+### Hadoop Ecosystem Experiments
 
-<img src="https://img.shields.io/badge/HADOOP-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
-<img src="https://img.shields.io/badge/SPARK-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/KAFKA-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
 
 **Technologies**
+
 - Hadoop and HDFS.
 - HBase and Hive.
 - Apache Spark and PySpark.
@@ -450,24 +589,25 @@ An AI-powered analytics platform designed to simplify dataset exploration and re
 - Apache Pig.
 
 **Areas Explored**
+
 - Distributed data storage.
 - Large-scale data processing.
 - Data transformation.
 - Streaming and data engineering concepts.
 
-</details>
+[⬆ BACK TO COMMAND CENTER](#project-command-center)
 
 ---
 
-<!-- ================================================== -->
-<!--                   CONNECT                          -->
-<!-- ================================================== -->
+<!-- ================= CONTACT ================= -->
 
 <div align="center">
 
 # 🤝 LET'S CONNECT
 
 *Open to learning, collaboration and opportunities in Data Analytics and AI.*
+
+<br/>
 
 <a href="https://github.com/HardikPetkarDS">
 <img src="https://img.shields.io/badge/GitHub-HardikPetkarDS-181717?style=for-the-badge&logo=github&logoColor=white"/>
