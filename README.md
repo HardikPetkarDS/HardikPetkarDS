@@ -1,9 +1,7 @@
 
 <div align="center">
 
-<!-- ================================================== -->
-<!--                    HERO SECTION                    -->
-<!-- ================================================== -->
+<!-- HERO SECTION -->
 
 <img src="./workspace.png"
      width="100%"
@@ -17,27 +15,25 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Insights.;Building+AI-Powered+Solutions.;Exploring+Machine+Learning.;Creating+Intelligent+Applications." alt="Animated introduction"/>
 
-<a href="https://github.com/HardikPetkarDS">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/>
 
-<a href="https://www.linkedin.com/in/hardik-petkar-8130bb370/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<!-- ALL SOCIAL LINKS IN ONE CENTERED ROW -->
 
-<a href="mailto:hardikpetkar826@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+<a href="https://github.com/HardikPetkarDS"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/hardik-petkar-8130bb370/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:hardikpetkar826@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 📍 Mumbai, India | B.Sc. Data Science
+
+<br/>
 
 </div>
 
 ---
 
-<!-- ================================================== -->
-<!--                    TECH ARSENAL                    -->
-<!-- ================================================== -->
+<!-- TECH ARSENAL -->
 
 <div align="center">
 
@@ -108,9 +104,7 @@
 
 ---
 
-<!-- ================================================== -->
-<!--                LIVE PORTFOLIO LINK                 -->
-<!-- ================================================== -->
+<!-- LIVE PORTFOLIO -->
 
 <div align="center">
 
@@ -132,14 +126,16 @@ through my interactive portfolio.
 <br/><br/>
 
 <a href="https://hardikpetkards.github.io/HardikPetkarDS/">
-<img src="https://img.shields.io/badge/OPEN_INTERACTIVE_WEBSITE-101F30?style=for-the-badge&logo=githubpages&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/OPEN_INTERACTIVE_WEBSITE-101F30?style=for-the-badge&logo=githubpages&logoColor=00D9FF" alt="Open Interactive Website"/>
 </a>
 
 <br/><br/>
 
-**🌐 https://hardikpetkards.github.io/HardikPetkarDS/**
+<a href="https://hardikpetkards.github.io/HardikPetkarDS/">
+<strong>🌐 https://hardikpetkards.github.io/HardikPetkarDS/</strong>
+</a>
 
-<br/>
+<br/><br/>
 
 <sub>Explore my work. Discover my projects. Connect with me.</sub>
 
@@ -147,9 +143,7 @@ through my interactive portfolio.
 
 ---
 
-<!-- ================================================== -->
-<!--                    CONNECT                         -->
-<!-- ================================================== -->
+<!-- CONNECT -->
 
 <div align="center">
 
@@ -157,25 +151,23 @@ through my interactive portfolio.
 
 *Open to learning, collaboration and opportunities in Data Analytics and AI.*
 
-<a href="https://github.com/HardikPetkarDS">
-<img src="https://img.shields.io/badge/GitHub-HardikPetkarDS-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+<a href="https://github.com/HardikPetkarDS"><img src="https://img.shields.io/badge/GitHub-HardikPetkarDS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/hardik-petkar-8130bb370/"><img src="https://img.shields.io/badge/LinkedIn-Hardik_Petkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:hardikpetkar826@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<a href="https://www.linkedin.com/in/hardik-petkar-8130bb370/">
-<img src="https://img.shields.io/badge/LinkedIn-Hardik_Petkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/>
 
 <a href="mailto:hardikpetkar826@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+📧 **hardikpetkar826@gmail.com**
 </a>
 
 <br/><br/>
 
-📧 **hardikpetkar826@gmail.com**
-
 📍 Mumbai, Maharashtra, India
 
-<br/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:007F9E,100:00D9FF&height=100&section=footer" width="100%" alt="Footer"/>
 
