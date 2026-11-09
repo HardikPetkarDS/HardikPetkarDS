@@ -1,11 +1,10 @@
-
 <div align="center">
 
-<!-- HERO SECTION -->
+<!-- HERO WORKSPACE IMAGE -->
 
-<img src="./workspace.png"
-     width="100%"
-     alt="Hardik Petkar - Futuristic Developer Workspace"/>
+<a href="https://hardikpetkards.github.io/HardikPetkarDS/">
+<img src="./workspace.png" width="100%" alt="Hardik Petkar - Developer Workspace"/>
+</a>
 
 <br/>
 
@@ -17,23 +16,20 @@
 
 <br/>
 
-<!-- ALL SOCIAL LINKS IN ONE CENTERED ROW -->
+<!-- SOCIAL LINKS - FOUR ALIGNED BADGES -->
 
 <p align="center">
 <a href="https://github.com/HardikPetkarDS"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/hardik-petkar-8130bb370/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:hardikpetkar826@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:hardikpetkar826@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+<a href="https://hardikpetkards.github.io/HardikPetkarDS/"><img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
 </p>
 
 📍 Mumbai, India | B.Sc. Data Science
 
-<br/>
-
 </div>
 
 ---
-
-<!-- TECH ARSENAL -->
 
 <div align="center">
 
@@ -73,7 +69,8 @@
 ### 🤖 Machine Learning & Artificial Intelligence
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
@@ -84,8 +81,10 @@
 ### 🗄️ Big Data & Data Engineering
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spark,kafka,hadoop&theme=dark"/>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/HDFS-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HBase-4CAF50?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge"/>
@@ -112,10 +111,7 @@
 
 ### DATA ANALYTICS × ARTIFICIAL INTELLIGENCE
 
-<p>
-Explore my projects, technologies, implementations and work
-through my interactive portfolio.
-</p>
+Explore my projects, technologies, implementations and work through my interactive portfolio.
 
 <br/>
 
@@ -126,13 +122,7 @@ through my interactive portfolio.
 <br/><br/>
 
 <a href="https://hardikpetkards.github.io/HardikPetkarDS/">
-<img src="https://img.shields.io/badge/OPEN_INTERACTIVE_WEBSITE-101F30?style=for-the-badge&logo=githubpages&logoColor=00D9FF" alt="Open Interactive Website"/>
-</a>
-
-<br/><br/>
-
-<a href="https://hardikpetkards.github.io/HardikPetkarDS/">
-<strong>🌐 https://hardikpetkards.github.io/HardikPetkarDS/</strong>
+<strong>🌐 OPEN INTERACTIVE PORTFOLIO ↗</strong>
 </a>
 
 <br/><br/>
@@ -154,7 +144,8 @@ through my interactive portfolio.
 <p align="center">
 <a href="https://github.com/HardikPetkarDS"><img src="https://img.shields.io/badge/GitHub-HardikPetkarDS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/hardik-petkar-8130bb370/"><img src="https://img.shields.io/badge/LinkedIn-Hardik_Petkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:hardikpetkar826@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:hardikpetkar826@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+<a href="https://hardikpetkards.github.io/HardikPetkarDS/"><img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
 </p>
 
 <br/>
